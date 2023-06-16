@@ -1,0 +1,7 @@
+Things to Do (not in priority)
+
+1. Test ICM 20948 IMU with Raspberry Pi Pico
+2. Test GPIO with LEDs 
+3. Develop Sensor Fusion Algorithm (or Reference)
+4. Look into LED Drivers
+5. Start PCB Design
