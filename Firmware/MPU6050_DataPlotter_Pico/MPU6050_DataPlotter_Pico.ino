@@ -10,7 +10,7 @@ Adafruit_MPU6050 mpu;
 
 void setup(void) {
   Serial.begin(115200);
-    Wire.setSDA(I2C_SDA_PIN);
+  Wire.setSDA(I2C_SDA_PIN);
   Wire.setSCL(I2C_SCL_PIN);
   while (!Serial) {
     delay(10); // will pause Zero, Leonardo, etc until serial console opens
