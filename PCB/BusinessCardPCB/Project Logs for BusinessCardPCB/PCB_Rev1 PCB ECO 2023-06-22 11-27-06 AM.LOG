@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=1V1 Pin=C9-1
+Added Pin To Net: NetName=1V1 Pin=U1-45
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C1 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C2 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C3 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C4 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C5 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C6 100nF
+Added Member To Class: ClassName=PCB_Rev1 Member=Component C7 100nF
