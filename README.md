@@ -25,4 +25,8 @@ Touch sensors as inputs for Reset + One User Input
 
 Right now I have finished laying out schematice and initioal placement of the components on the PCB (no routing, didnt have time)
 <br>
-Here is a picture:
+Here is a picture:<br>
+## FRONT
+![pcb_front](https://github.com/Nischay2312/PCBBusinessCard/blob/main/Misc/PCB_Layout_front.png)
+## BACK
+![pcb_front](https://github.com/Nischay2312/PCBBusinessCard/blob/main/Misc/PCB_Layout_back.png)
